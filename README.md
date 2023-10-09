@@ -1,4 +1,4 @@
-# EllpiseMoverm, what is is, and what we learnt
+# What is is and what we learnt
 
 EllipseMover is a robotics project developed for Camp Petica, combining programming, mechanics and robotics. The project revolves around a robot that is controlled with a dedicated controller and possesses the  ability to pick up coulored balls and move them around.
 
